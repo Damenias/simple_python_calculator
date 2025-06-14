@@ -1,7 +1,7 @@
 # 🧮 Simple Python Calculator
 
 A command-line calculator that performs basic arithmetic operations: addition, subtraction, multiplication, and division. Built as part of a beginner Python project series. 
-### Also, i added simple operand 'P'. P Does somethin Pythonic ###
+### Also, i added simple operand 'P'.  P Does somethin Pythonic ###
 
 ## 📋 Features
 
